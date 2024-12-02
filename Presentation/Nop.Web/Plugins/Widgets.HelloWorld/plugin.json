@@ -1,11 +1,16 @@
 ﻿{
   "Group": "Widgets",
   "FriendlyName": "Hello World",
-  "SystemName": "Widgets.HelloWorld",
-  "Version": "1.00",
-  "SupportedVersions": [ "4.70" ],
+  "SupportedVersions": [
+    "4.70"
+  ],
   "Author": "Kazi Mahamud Hasan",
-  "DisplayOrder": 5,
+  "DisplayOrder": 1,
   "FileName": "Nop.Plugin.Widgets.HelloWorld.dll",
-  "Description": "This is my first Plugin."
+  "Description": "This is my first Plugin.",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Widgets.HelloWorld",
+  "Version": "1.00"
 }
